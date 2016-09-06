@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hpad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    
+    <string name="profile_desc">Himakom, merupakan Organisasi Himpunan Mahasiswa Ilmu Komputer,
+    yang berdiri sejak 18 April 1998......</string>
+
+    <string name="ipsuum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec vel lorem erat. Donec ut sem purus. Suspendisse ut erat ligula.
+        Pellentesque odio sem, aliquam eget vulputate eu, pretium </string>
+
+</resources>
